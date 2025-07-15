@@ -1,4 +1,4 @@
-.menu{
+.menu {
   padding: 100px 0;
   display: flex;
   flex-direction: column;
@@ -9,15 +9,15 @@
   background-size: cover;
 }
 
-.menu__title{
-  margin: 0 0 24;
+.menu__title {
+  margin: 0 0 24px;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
   max-width: 811px;
 }
 
-.menu__subtitle{
+.menu__subtitle {
   margin: 0 0 100px;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
@@ -26,7 +26,7 @@
   text-align: center;
 }
 
-.menu__cards{
+.menu__cards {
   margin: 0;
   padding: 0;
   list-style-type: none;
@@ -35,4 +35,3 @@
   gap: 100px;
   justify-content: center;
 }
-

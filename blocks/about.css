@@ -1,4 +1,4 @@
-.about{
+.about {
   background-color: #0A2850;
   color: #fff;
   padding: 100px 80px 173px;
@@ -10,7 +10,7 @@
   z-index: 0;
 }
 
-.about__title{
+.about__title {
   max-width: 251px;
   font-weight: 500;
   font-size: 44px;
@@ -18,7 +18,7 @@
   margin: 0;
 }
 
-.about__content{
+.about__content {
   margin: 19px 0 0;
   max-width: 660px;
   display: flex;
@@ -27,14 +27,14 @@
 }
 
 
-.about__paragraph{
+.about__paragraph {
   font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
   margin: 0;
 }
 
-.about__circle{
+.about__circle {
   background-color: #1878DC;
   position: absolute;
   width: 426px;
@@ -45,11 +45,11 @@
   z-index: -1;
 }
 
-.about__circle_animation_blurred{
+.about__circle_animation_blurred {
   animation: pulsate 1.3s ease-in-out 0s infinite;
 }
 
-@keyframes pulsate{
+@keyframes pulsate {
   0%{
     opacity: 0;
   }
