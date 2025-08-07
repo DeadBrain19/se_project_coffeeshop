@@ -17,3 +17,5 @@ Add your ideas here :)
 
 whrn I learn how to do back end come back and make it where it can hold the forms info
 
+
+this is the github deploment of my coffee shop website and this is the link https://deadbrain19.github.io/se_project_coffeeshop/
